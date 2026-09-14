@@ -1,8 +1,8 @@
 # Module 2 - Array 1D
 
-### Complete all the tasks and give me the final array  (Prefix Sum)
-    Operations in all over the Array
-    Range based Operations
+### Complete all the tasks and give me the final array (Prefix Sum)
+    Operations in all over the Array (array to be added from a specific index)
+    Range based Operations (array to be added for a specific indexes not entire araay)
 
 ### Find the max prefix sum (subarray starting from index - 0)
 
